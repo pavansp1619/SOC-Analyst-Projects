@@ -47,14 +47,6 @@ This project simulates a real-world malware attack scenario to demonstrate how *
 
 ---
 
-## 📎 Full Project Report
-
-[📄 Click here to view the complete PDF report](https://your-link-here.com)
-
-> *(Replace with your actual link to Google Drive or GitHub-hosted PDF)*
-
----
-
 ## 🧠 Conclusion
 
 This project effectively showcases how a SIEM like IBM QRadar can detect abnormal events caused by malware infections. Real-time log correlation, visual EPS spikes, and detailed system notifications provide a powerful method for identifying and responding to cyber threats.
@@ -62,5 +54,5 @@ This project effectively showcases how a SIEM like IBM QRadar can detect abnorma
 ---
 
 ## 📎 Full Project Report
-[📄 Click here to view the full PDF report](https://drive.google.com/drive/folders/1gWxWYzt1oEVHc6JYdiB6PUUv57MkA6Sz?usp=drive_link)
+[📄 Click here to view the full PDF report](https://drive.google.com/file/d/1xKgkK4jFiCTQ6cY3c8FMWDoxNZult1sv/view?usp=sharing)
 
