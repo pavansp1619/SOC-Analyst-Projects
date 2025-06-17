@@ -30,8 +30,7 @@ This project demonstrates how to set up and use **Wazuh**, a powerful open-sourc
 ## 🧱 Setup Summary
 
 1. 🧰 Install Wazuh Stack (Manager + Dashboard + Indexer) on Ubuntu:
-   ```bash
-   curl -sO https://packages.wazuh.com/4.7/wazuh-install.sh && sudo bash ./wazuh-install.sh -a
+
 🌐 Access Dashboard at https://<ubuntu-ip>:443
 
 ➕ Add Kali Linux as Agent:
@@ -79,6 +78,9 @@ sudo systemctl start wazuh-agent
 🎯 Enhanced visibility into Linux endpoint behavior
 
 🧰 SOC-level threat detection using open-source tools
+
 ## Full Report
+
 📎 Full Project Report
-📄 Click here to view the full PDF report(https://drive.google.com/file/d/1WYikq51VfyXrMzTdne4ZAFixrSfCymWi/view?usp=sharing)
+📄 Click here to view the full PDF report
+(https://drive.google.com/file/d/1WYikq51VfyXrMzTdne4ZAFixrSfCymWi/view?usp=sharing)
