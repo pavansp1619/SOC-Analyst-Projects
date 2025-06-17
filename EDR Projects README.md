@@ -82,4 +82,5 @@ sudo systemctl start wazuh-agent
 ## Full Report
 
 📎 Full Project Report
+
 [📄 Click here to view the full PDF report](https://drive.google.com/file/d/1WYikq51VfyXrMzTdne4ZAFixrSfCymWi/view?usp=sharing)
